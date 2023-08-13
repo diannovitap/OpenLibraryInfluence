@@ -177,7 +177,7 @@
                         <div class="p-6 flex items-center gap-2">
                             <a href="https://openlibrary-telkomuniversity.netlify.app/"><div class="w-8 h-8 rounded-full text-white grid place-items-center bg-[#016503]" style="background-color: #016503;">D</div></a>
                             <a href="https://ta-openlibrary.000webhostapp.com/"><div class="w-8 h-8 rounded-full text-white grid place-items-center bg-[#f00]" style="background-color: #f00;">I</div></a>
-                            <a href="https://beamish-cascaron-53110e.netlify.app/logout/beranda.html"><div class="w-8 h-8 rounded-full text-white grid place-items-center bg-[#00f]" style="background-color: #00f;">S</div></a>
+                            <a href="https://oplib-telkomuniv-steadiness.netlify.app/logout/beranda"><div class="w-8 h-8 rounded-full text-white grid place-items-center bg-[#00f]" style="background-color: #00f;">S</div></a>
                             <a href="https://effervescent-salamander-0412e4.netlify.app/index.html"><div class="w-8 h-8 rounded-full grid place-items-center bg-[#ff0]" style="background-color: #ff0;">C</div></a>
                         </div>
                         <!-- Modal footer -->
