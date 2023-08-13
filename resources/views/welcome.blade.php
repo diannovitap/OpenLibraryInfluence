@@ -21,7 +21,7 @@
 
 
 <body class="font-inter">
-    <section class="h-screen bg-no-repeat bg-center"
+<section class="h-screen bg-no-repeat bg-center"
         style="background-image: url('/assets/oplib.png'); background-color: rgba(255, 255, 255, 0.7); background-size: cover;">
 
         <div class="absolute top-0 h-screen w-full" style="background-color: rgba(255, 255, 255, 0.5)">
@@ -37,6 +37,7 @@
         </div>
 
     </section>
+
 
     <section class="h-fit min-h-screen bg-[#F0AD4E] p-10">
         <div>
@@ -86,9 +87,12 @@
                                             <select class="w-full text-sm rounded-md border border-[#F0AD4E]"
                                                 name="jeniskatalog" id="jeniskatalog">
                                                 <option value="">Pilih Jenis Katalog</option>
-                                                <option value="Karya Ilmiah - Skripsi - Reference">Karya Ilmiah - Skripsi S1 - Reference</option>
-                                                <option value="Karya Ilmiah - Skripsi - Reference">Karya Ilmiah - Skripsi S1 - Reference</option>
-                                                <option value="Karya Ilmiah - Skripsi - Reference">Karya Ilmiah - Skripsi S1 - Reference</option>
+                                                <option value="Karya Ilmiah - Skripsi - Reference">Karya Ilmiah -
+                                                    Skripsi S1 - Reference</option>
+                                                <option value="Karya Ilmiah - Skripsi - Reference">Karya Ilmiah -
+                                                    Skripsi S1 - Reference</option>
+                                                <option value="Karya Ilmiah - Skripsi - Reference">Karya Ilmiah -
+                                                    Skripsi S1 - Reference</option>
                                             </select>
                                         </div>
                                         <div class="mt-2">
@@ -208,7 +212,8 @@
                                         <div class="flex justify-end gap-7 mt-3">
                                             <button
                                                 class="border border-[#FF4500] py-2 px-4 rounded-md">Bersihkan</button>
-                                           <a class="bg-[#FF4500] py-2 px-8 text-white rounded-md" href="{{route('katalog.detail')}}">Cari</a>
+                                            <a class="bg-[#FF4500] py-2 px-8 text-white rounded-md"
+                                                href="{{route('katalog.detail')}}">Cari</a>
                                         </div>
                                     </form>
                                 </div>
